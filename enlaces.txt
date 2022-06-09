@@ -10,3 +10,6 @@ sonar.csv
 vertebral.csv
 wine.csv
 yeast.csv
+abalone.csv
+glass_identification.csv
+data_banknote_authentication.csv
